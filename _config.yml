@@ -1,11 +1,11 @@
-id: 67
+id: 85
 user: eq19
-span: span-48
+span: span-66
 title: eQuantum
-baseurl: /maps
-repository: JunctionTerms/maps
-action: JunctionTerms/JunctionTerms.github.io/actions/runs/14675549969
-description: ₠Quantum Project
+baseurl: /grammar
+repository: KernelPatterns/grammar
+action: KernelPatterns/syntax/actions/runs/15009019394
+description: eQuantum Project
 
 #debug:
 #  dist: false
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [5, 1]
-  pinned: [maps, feed, lexer, parser, syntax, grammar, flakes, jsonix, lanyon, wiki, sitemap, wikitemplate]
+  spin: [6, 6]
+  pinned: [maps, feed, lexer, parser, syntax, grammar, ccxt, superalgos, indodax, advance, core, freqtrade]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
